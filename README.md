@@ -1,5 +1,5 @@
 # sdaia_t5c04_projects
-Repo with all projects submitted by students 
+Repo with all projects done by students
 
 
 ## 1. EDA
