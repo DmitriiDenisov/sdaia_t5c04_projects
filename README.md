@@ -71,7 +71,7 @@ Repo with all projects done by students
 
 [Client term deposit classification](https://github.com/maghrabi-es/Classification-Project) by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/) and [Tia Alzanan](https://www.linkedin.com/in/tia-alzanan-993325216/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADaCTT8BJnyh_cGzJMl6_Nh1FhrujhVCLbo)
 
-[Fake jobs ads classification](https://github.com/MohammedAHO/fake-job-ads-classification) by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+[Fake jobs ads classification](https://github.com/MohammedAHO/fake-job-ads-classification) by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
 [Rain prediction](https://github.com/MeshalAlamr/rain-prediction) by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
 
@@ -89,9 +89,9 @@ Repo with all projects done by students
 
 []() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
 
-[]() by by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+[]() by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
 
-[]() by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+[]() by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
 []() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
 
@@ -109,9 +109,9 @@ Repo with all projects done by students
 
 []() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
 
-[]() by by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+[]() by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
 
-[]() by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+[]() by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
 []() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
 
