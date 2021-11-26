@@ -26,7 +26,6 @@ Repo with all projects done by students
 
 [GitHub](https://github.com/NorahAlkhalifah/Advertising_MTA) by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/)
 
-
 [GitHub](https://github.com/Raghad09/EDA) by [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
 [GitHub](https://github.com/ReefAlturki/EDA_Project) by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/)
@@ -62,27 +61,29 @@ Repo with all projects done by students
 
 
 ## 3. Classification
-[]() by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
+[Hotel Booking Cancelation Classification](https://github.com/AsmaaAlthakafi/Hotel-Booking-Cancelation-Classification) by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
 
-[]() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
+[Diamonds quality classification](https://github.com/ReefAlturki/ClassificationProject) by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) 
 
-[]() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
+[Startup Success classification](https://github.com/Raghad09/ClassificationProject) by [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
-[]() by by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+[Ransomware Transactions Detection](https://github.com/SDAIA-T5-Projects/Ransomware-Transactions-Detection) by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
 
-[]() by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+[Client term deposit classification](https://github.com/maghrabi-es/Classification-Project) by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/) and [Tia Alzanan](https://www.linkedin.com/in/tia-alzanan-993325216/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADaCTT8BJnyh_cGzJMl6_Nh1FhrujhVCLbo)
 
-[]() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
+[Fake jobs ads classification](https://github.com/MohammedAHO/fake-job-ads-classification) by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
-[]() by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
+[Rain prediction](https://github.com/MeshalAlamr/rain-prediction) by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
 
-[]() by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+[Load default prediction](https://github.com/NadAAaHH/SDAIA_T5_classification_project) by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
 
-[]() by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
+[Fetal health prediction](https://github.com/ibalzuhairi/Fetal_health_Classification) by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+
+[Spotify songs classification](https://github.com/Taifabdullah2021/Spotify_Hit_songs_classification_project) by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
 
 ## 4. Unsupervised and NLP
 
-[]() by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
+[Movies Recommender System and Topic Modeling](https://github.com/AsmaaAlthakafi/Movies-Recommender-System-and-Topic-Modeling) by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
 
 []() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
@@ -102,7 +103,7 @@ Repo with all projects done by students
 
 ## 5. Deep Learning
 
-[]() by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
+[Optical Music Recognition](https://github.com/AsmaaAlthakafi/Optical-Music-Recognition) by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
 
 []() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
