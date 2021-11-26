@@ -85,21 +85,23 @@ Repo with all projects done by students
 
 [Movies Recommender System and Topic Modeling](https://github.com/AsmaaAlthakafi/Movies-Recommender-System-and-Topic-Modeling) by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
 
-[]() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
+[Topic modeling on Asos tweets](https://github.com/ReefAlturki/NLP_UnsupervisedLearning_Project) by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
-[]() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
+[Game recommendation system](https://github.com/SDAIA-T5-Projects/Game_Recommnedation_system) by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
 
-[]() by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+[Music recommendation system](https://github.com/maghrabi-es/NLP-Project) by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
 
-[]() by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+[Twitter Nestiment analysis](https://github.com/tia1996/NLP) by [Tia Alzanan](https://www.linkedin.com/in/tia-alzanan-993325216/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADaCTT8BJnyh_cGzJMl6_Nh1FhrujhVCLbo)
 
-[]() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
+[Spoiler Free Movie Recommender](https://github.com/MohammedAHO/Spoiler-Free-Movie-Recommender) by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
-[]() by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
+[Tweets emotions detection](https://github.com/MeshalAlamr/emotion-detection-nlp) by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
 
-[]() by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+[Trends in App Store](https://github.com/NadAAaHH/SDAIA_T5_NLP_project) by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
 
-[]() by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
+[Topic modeling for newspapers](https://github.com/ibalzuhairi/Riyadh_NLP2) by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+
+[Clustering Research Papers Abstracts](https://github.com/Taifabdullah2021/Clustering_RecSys_Research_Papers_Abstracts) by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
 
 ## 5. Deep Learning
 
