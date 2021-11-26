@@ -107,18 +107,18 @@ Repo with all projects done by students
 
 [Optical Music Recognition](https://github.com/AsmaaAlthakafi/Optical-Music-Recognition) by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
 
-[]() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
+[Classifying Heart condition](https://github.com/ReefAlturki/DeepLearningProject) by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
-[]() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
+[Generative Art](https://github.com/SDAIA-T5-Projects/Generative_art) by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
 
-[]() by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+[Sign Language Classification](https://github.com/maghrabi-es/Deep-Learning) by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
 
-[]() by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+[Online offers detector](https://github.com/MohammedAHO/online-offers-detector/tree/main/MVP) by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
-[]() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
+[Speech emotion recognition](https://github.com/MeshalAlamr/speech-emotion-recognition) by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
 
-[]() by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
+[Image and video auto description](https://github.com/NadAAaHH/SDAIA_T5_deep_learning_project) by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
 
-[]() by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+[Car image classification](https://github.com/ibalzuhairi/Cars_Classifiers) by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
 
-[]() by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
+[Desease detection with CNN](https://github.com/Taifabdullah2021/CVD_CNN_) by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
