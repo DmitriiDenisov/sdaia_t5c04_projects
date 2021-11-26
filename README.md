@@ -64,13 +64,58 @@ Repo with all projects done by students
 ## 3. Classification
 []() by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
 
-[]() by by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
+[]() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
 
-[]() by 
+[]() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
 
+[]() by by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
 
+[]() by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
 
+[]() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
+
+[]() by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
+
+[]() by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+
+[]() by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
 
 ## 4. Unsupervised and NLP
 
+[]() by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
+
+[]() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
+
+[]() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
+
+[]() by by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+
+[]() by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+
+[]() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
+
+[]() by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
+
+[]() by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+
+[]() by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
+
 ## 5. Deep Learning
+
+[]() by [Sarah Alabdulwahab](https://www.linkedin.com/in/sarah-alabdulwahab/) and [Asmaa Althakafi](https://www.linkedin.com/in/asmaa-althakafi/)
+
+[]() by [Reef Alturki](https://www.linkedin.com/in/reef-alturki/) and [Raghad Alarifi](https://www.linkedin.com/in/raghad-alarifi/)
+
+[]() by [Elaf Alsaedi](https://www.linkedin.com/in/elaf-salem/) and [Muntaha Jaber](https://www.linkedin.com/in/muntaha-jaber-3699931a8/)
+
+[]() by by [Elyas Maghrabi](https://www.linkedin.com/in/elyas-maghrabi-567109136/)
+
+[]() by by [Fatima Alsaeed](https://www.linkedin.com/in/fatima-al-saeed/) and [Mohammed Osailan](https://www.linkedin.com/in/mohammed-osailan/)
+
+[]() by [Norah Alkhalifah](https://www.linkedin.com/in/norahalkhalifah/) and [Alamr Meshal](https://www.linkedin.com/in/meshalalamr/)
+
+[]() by [Nada Rambu](https://www.linkedin.com/in/nada-rambu/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWohKoBdkbmYXhS-9k-mQ2YH3fkO7FWJDE)
+
+[]() by [Abdulaziz Alshehri](https://www.linkedin.com/in/kaaz/) and [Ibrahim Alzuhairi](https://www.linkedin.com/in/ibrahim-alzuhairi-27751584/)
+
+[]() by [Taef Abdullah](https://www.linkedin.com/in/taef-al-khales-945380213/) and [Sara Hawi](https://www.linkedin.com/in/saraahawi/)
